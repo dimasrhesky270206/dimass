@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
+        "JOBSHEET-6",
         "JOBSHEET-5",
         "JOBSHEET-3",
         "JOBSHEET-1",
         "JOBSHEET 2",
-        "JOBSHEET-6"
+        "JOBSHEET-7"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "DosenDemo06",
+            "request": "launch",
+            "mainClass": "DosenDemo06",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "DosenMain06",
+            "request": "launch",
+            "mainClass": "DosenMain06",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "Mahasiswa",
+            "request": "launch",
+            "mainClass": "Mahasiswa",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "MahasiswaDemo",
+            "request": "launch",
+            "mainClass": "MahasiswaDemo",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "MahasiswaDemo06",
+            "request": "launch",
+            "mainClass": "MahasiswaDemo06",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "MahasiswaMain06",
+            "request": "launch",
+            "mainClass": "MahasiswaMain06",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "MainFaktorial",
+            "request": "launch",
+            "mainClass": "MainFaktorial",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "Mainpangkat",
+            "request": "launch",
+            "mainClass": "Mainpangkat",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "MataKuliahMain06",
+            "request": "launch",
+            "mainClass": "MataKuliahMain06",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "MatakuliahDemo06",
+            "request": "launch",
+            "mainClass": "MatakuliahDemo06",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "SortingMain",
+            "request": "launch",
+            "mainClass": "SortingMain",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "SumMain",
+            "request": "launch",
+            "mainClass": "SumMain",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "UTS06",
+            "request": "launch",
+            "mainClass": "UTS06",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "percobaan1",
+            "request": "launch",
+            "mainClass": "percobaan1",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "percobaan2",
+            "request": "launch",
+            "mainClass": "percobaan2",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "percobaan3",
+            "request": "launch",
+            "mainClass": "percobaan3",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "percobaan4",
+            "request": "launch",
+            "mainClass": "percobaan4",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "tugas1",
+            "request": "launch",
+            "mainClass": "tugas1",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "tugas2",
+            "request": "launch",
+            "mainClass": "tugas2",
+            "projectName": "dimass_bf8fd69"
+        },
+        {
+            "type": "java",
+            "name": "tugas3",
+            "request": "launch",
+            "mainClass": "tugas3",
+            "projectName": "dimass_bf8fd69"
+        }
+    ]
+}

@@ -34,7 +34,7 @@ public class DosenMain06 {
                     }
 
                     int jumlah = sc.nextInt();
-                    sc.nextLine(); // Konsumsi newline
+                    sc.nextLine(); 
 
                     for (int i = 0; i < jumlah; i++) {
                         System.out.println("\nDosen ke-" + (i + 1));
