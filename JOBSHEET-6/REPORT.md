@@ -148,7 +148,7 @@ Disini ada 3 step utama:
 ***
 ## Tugas 1
 
- ![Screenshot](Screenshot%202025-02-19%20131313.png)
+ ![Screenshot]()
 
 ***
 *Penjelesan singkat:* 
